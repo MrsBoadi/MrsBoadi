@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rina Akeang-Boadi
 - 👀 I have a strong interest in the field of cyber security
-- 🌱 I’m currently nearing completion of my cyber security program.
+- 🌱 I recently graduated from Tech Academy in Portland Oregon in the cybersecurity program.
 - 💞️ I am eager to collaborate on projects related to cyber security and am always looking to expand my knowledge in this area.
 - 📫 You can reach me through direct message or email at akeangrina@gmail.com. 
 - ⚡ Fun fact:  I thrive on variety and the excitement of discovering fresh challenges!
